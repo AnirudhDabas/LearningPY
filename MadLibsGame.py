@@ -1,0 +1,20 @@
+
+print("Hello! " + "Welcome to Anirudh's Mad Libs Game!")
+Singer = input("Enter your favourite singer :  ")
+Vehicle = input("Enter your favourite vehicle :  ")
+food = input("Enter your favourite food :  ")
+yummy = input("Enter a synonym for yummy :  ")
+animal = input("Enter your favourite animal :  ")
+
+
+print("Hey" + " ,")
+print("This is " + Singer + " ," + "and im going to tell you some things about myself")
+print("Ok so" + "..." )
+print("I absolutely hate it everytime I get hit by a " + Vehicle )
+print("But after getting hit" + " ," )
+print("I totally love eating " + food )
+print("After getting hit by a " + Vehicle + " ,")
+print( food + " gets so damn " + yummy + " !")
+print("Anyways" + " ,")
+print("Byee")
+print("Love" + " ," + animal)
